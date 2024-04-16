@@ -33,9 +33,6 @@ These Keypad modules are made of thin, flexible membrane material. The 4 x4 keyp
 All the above mentioned LCD display will have 16 Pins and the programming approach is also the same and hence the choice is left to you. 
 Below is the Pinout and Pin Description of 16x2 LCD Module:
 
-![image](https://user-images.githubusercontent.com/36288975/233858086-7b1a88a2-f941-475c-86c2-b3bae68bdf7e.png)
-![image](https://user-images.githubusercontent.com/36288975/233857710-541ac1c2-786c-4dfc-b7b5-e3a4868a9cb6.png)
-![image](https://user-images.githubusercontent.com/36288975/233857733-05df5dbf-1a1e-479e-85bb-8014a39ad878.png)
 
 4-bit and 8-bit Mode of LCD:
 
@@ -128,7 +125,7 @@ Jump to second line, position 2
  1. click on STM 32 CUBE IDE, the following screen will appear 
  2. click on FILE, click on new stm 32 project 
  3. select the target to be programmed  as shown below and click on next 
- 4.select the program name 
+ 4.select the program name
  5. corresponding ioc file will be generated automatically 
  6.select the appropriate pins as gipo, in or out, USART or required options and configure 
  7.click on cntrl+S , automaticall C program will be generated 
